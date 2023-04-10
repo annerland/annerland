@@ -9,4 +9,6 @@ Overall, I value creativity, curiosity, and a sense of playfulness in both my pr
 - 🔭 I’m currently working on Rammus.GG
 - 🌱 I’m currently learning Go
 
-![image](https://user-images.githubusercontent.com/39065579/230990582-f15f1825-fcc2-49dc-be2e-7c45232bf724.png)
+<img src="https://media.tenor.com/phRAFwwbrvEAAAAd/baby-yoda-the-mandalorian.gif)" width="300" height="300" />
+
+Stay comfy 🌺
