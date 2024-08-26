@@ -6,8 +6,7 @@ In my personal life, I'm a playful and imaginative person who enjoys drawing cut
 
 Overall, I value creativity, curiosity, and a sense of playfulness in both my professional and personal pursuits.
 
-- 🔭 I’m currently working on Rammus.GG
-- 🌱 I’m currently learning Go
+- 🔭 I’m currently learning Django
 
 <img src="https://media.tenor.com/phRAFwwbrvEAAAAd/baby-yoda-the-mandalorian.gif)" width="300" height="300" />
 
