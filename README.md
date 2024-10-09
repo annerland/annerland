@@ -6,7 +6,7 @@ In my personal life, I'm a playful and imaginative person who enjoys drawing cut
 
 Overall, I value creativity, curiosity, and a sense of playfulness in both my professional and personal pursuits.
 
-- 🔭 I’m currently learning Django
+- 🔭 I’m currently learning Python
 
 <img src="https://media.tenor.com/phRAFwwbrvEAAAAd/baby-yoda-the-mandalorian.gif)" width="300" height="300" />
 
