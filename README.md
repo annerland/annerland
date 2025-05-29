@@ -12,7 +12,6 @@ Overall, I value creativity, curiosity, and a sense of playfulness in both my pr
 ### **Current learning**
 
 - 🔭 Data structures
-- 🍃 Vue.js
 - 🖥️ PHP and Laravel
 
 ### **Experience**
@@ -22,5 +21,7 @@ Overall, I value creativity, curiosity, and a sense of playfulness in both my pr
 - 🔷 Typescript
 - 💚 Node
 - 🥦 Django
+- 🍃 Vue.js
+- 🐋 Docker
 
 Stay comfy 🌺
