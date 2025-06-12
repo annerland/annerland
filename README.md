@@ -20,7 +20,7 @@ Overall, I value creativity, curiosity, and a sense of playfulness in both my pr
 - 🅰️ Angular
 - 🔷 Typescript
 - 💚 Node
-- 🥦 Django
+- 🐍 Django
 - 🍃 Vue.js
 - 🐋 Docker
 
